@@ -1,2 +1,2 @@
-*.mdb filter=lfs diff=lfs merge=lfs -text
-*.xls filter=lfs diff=lfs merge=lfs -text
+*.mdb filter=lfs diff=lfs merge=lfs -text lockable
+*.xls filter=lfs diff=lfs merge=lfs -text lockable
